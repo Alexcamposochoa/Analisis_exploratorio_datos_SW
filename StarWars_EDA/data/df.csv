@@ -1,0 +1,66 @@
+,MovieID,Title,Studio,Franquicias,Year,ReleaseDate,Runtime,Lifetime Gross,Budget,puntuacion,cantidad de votos,FranchiseID
+0,1001,Star Wars: Episode IV - A New Hope,Lucasfilm,Star Wars,1977,05-25-77,121.0,775398007.0,11000000,7.9,137184,101
+1,1002,Star Wars: Episode V - The Empire Strikes Back,Lucasfilm,Star Wars,1980,06-20-80,124.0,538375067.0,18000000,8.1,136665,101
+2,1003,Star Wars: Episode VI - Return of the Jedi,Lucasfilm,Star Wars,1983,05-25-83,135.0,475106177.0,32500000,7.9,122877,101
+3,1004,Jurassic Park,Universal Pictures,Jurassic Park,1993,06-11-93,127.0,1109802321.0,63000000,7.1,147830,102
+4,1005,The Lost World: Jurassic Park,Universal Pictures,Jurassic Park,1997,05-23-97,129.0,618638999.0,73000000,5.7,50840,102
+5,1006,Star Wars: Episode I - The Phantom Menace,Lucasfilm,Star Wars,1999,05-19-99,136.0,1027082707.0,115000000,6.2,103888,101
+6,1007,Jurassic Park III,Universal Pictures,Jurassic Park,2001,07-18-01,92.0,368780809.0,93000000,4.8,33791,102
+7,1008,Harry Potter and the Sorcerer's Stone,Warner Bros.,Harry Potter,2001,11-16-01,152.0,1022290019.0,125000000,6.8,85073,103
+8,1009,The Lord of the Rings: The Fellowship of the Ring,WingNut Films,El señor de los anillos,2001,12-18-01,179.0,898094742.0,93000000,8.0,192446,104
+9,1010,Star Wars: Episode II - Attack of the Clones,Lucasfilm,Star Wars,2002,05-15-02,142.0,653779970.0,120000000,6.3,107369,101
+10,1011,Harry Potter and the Chamber of Secrets,Warner Bros.,Harry Potter,2002,11-13-02,161.0,879928511.0,100000000,6.5,74933,103
+11,1012,The Lord of the Rings: The Two Towers,WingNut Films,El señor de los anillos,2002,12-18-02,179.0,947896241.0,79000000,8.0,170738,104
+12,1013,The Lord of the Rings: The Return of the King,WingNut Films,El señor de los anillos,2003,12-01-03,201.0,1146436214.0,94000000,8.2,185616,104
+13,1014,Harry Potter and the Prisoner of Azkaban,Warner Bros.,Harry Potter,2004,05-31-04,141.0,797660766.0,130000000,6.9,83079,103
+14,1015,Star Wars: Episode III - Revenge of the Sith,Lucasfilm,Star Wars,2005,05-17-05,140.0,868390560.0,113000000,7.1,103276,101
+15,1016,Harry Potter and the Goblet of Fire,Warner Bros.,Harry Potter,2005,11-05-05,157.0,896730264.0,150000000,6.6,77457,103
+16,1017,Harry Potter and the Order of the Phoenix,Warner Bros.,Harry Potter,2007,06-28-07,138.0,942201710.0,150000000,6.4,73909,103
+17,1018,Iron Man,Marvel Studios,U.C Marvel,2008,04-30-08,126.0,585796247.0,140000000,6.6,96939,105
+18,1019,The Incredible Hulk,Marvel Studios,U.C Marvel,2008,06-12-08,114.0,264770996.0,150000000,5.7,49743,105
+19,1020,Harry Potter and the Half-Blood Prince,Warner Bros.,Harry Potter,2009,07-07-09,153.0,934483039.0,250000000,6.4,57414,103
+20,1021,Iron Man 2,Marvel Studios,U.C Marvel,2010,04-28-10,124.0,623933331.0,200000000,5.9,60179,105
+21,1022,Harry Potter and the Deathly Hallows: Part 1,Warner Bros.,Harry Potter,2010,10-17-10,146.0,977070383.0,250000000,6.6,67954,103
+22,1023,Thor,Marvel Studios,U.C Marvel,2011,04-21-11,115.0,449326618.0,150000000,5.6,62116,105
+23,1024,Harry Potter and the Deathly Hallows: Part 2,Warner Bros.,Harry Potter,2011,07-07-11,130.0,1342359942.0,125000000,7.0,67885,103
+24,1025,Captain America: The First Avenger,Marvel Studios,U.C Marvel,2011,07-22-11,124.0,370569774.0,140000000,5.8,57600,105
+25,1026,The Avengers,Marvel Studios,U.C Marvel,2012,05-04-12,143.0,1518815515.0,220000000,6.9,81670,105
+26,1027,The Hobbit: An Unexpected Journey,WingNut Films,El señor de los anillos,2012,11-26-12,169.0,1017030651.0,250000000,7.0,84876,104
+27,1028,Iron Man 3,Marvel Studios,U.C Marvel,2013,04-18-13,130.0,1214811252.0,200000000,6.1,51955,105
+28,1029,Thor: The Dark World,Marvel Studios,U.C Marvel,2013,10-29-13,112.0,644783140.0,170000000,5.9,40538,105
+29,1030,The Hobbit: The Desolation of Smaug,WingNut Films,El señor de los anillos,2013,12-11-13,161.0,959027992.0,250000000,6.7,64321,104
+30,1031,Captain America: The Winter Soldier,Marvel Studios,U.C Marvel,2014,03-20-14,136.0,714421503.0,170000000,6.6,42610,105
+31,1032,Guardians of the Galaxy,Marvel Studios,U.C Marvel,2014,07-30-14,121.0,773350147.0,170000000,6.9,62081,105
+32,1033,The Hobbit: The Battle of the Five Armies,WingNut Films,El señor de los anillos,2014,12-10-14,144.0,962201338.0,250000000,6.3,48362,104
+33,1034,Avengers: Age of Ultron,Marvel Studios,U.C Marvel,2015,04-22-15,141.0,1402809540.0,280000000,6.3,46947,105
+34,1035,Jurassic World,Universal Pictures,Jurassic Park,2015,06-09-15,124.0,1671537444.0,150000000,5.8,54861,102
+35,1036,Ant-Man,Marvel Studios,U.C Marvel,2015,07-14-15,117.0,519311965.0,130000000,6.2,38147,105
+36,1037,Star Wars: Episode VII - The Force Awakens,Lucasfilm,Star Wars,2015,12-18-15,136.0,2069521700.0,306000000,6.7,64579,101
+37,1038,Captain America: Civil War,Marvel Studios,U.C Marvel,2016,04-27-16,147.0,1153337496.0,250000000,6.8,41066,105
+38,1039,Doctor Strange,Marvel Studios,U.C Marvel,2016,11-04-16,115.0,677796076.0,165000000,6.5,39769,105
+39,1040,Rogue One: A Star Wars Story,Lucasfilm,Star Wars,2016,12-14-16,133.0,1058682142.0,200000000,6.9,46951,101
+40,1041,Guardians of the Galaxy Vol. 2,Marvel Studios,U.C Marvel,2017,04-19-17,137.0,863756051.0,200000000,6.7,39025,105
+41,1042,Spider-Man: Homecoming,Marvel Studios,U.C Marvel,2017,07-07-17,133.0,880166924.0,175000000,6.3,34077,105
+42,1043,Thor: Ragnarok,Marvel Studios,U.C Marvel,2017,10-25-17,131.0,853983879.0,180000000,6.4,32051,105
+43,1044,Star Wars: Episode VIII - The Last Jedi,Lucasfilm,Star Wars,2017,12-15-17,152.0,1332698830.0,317000000,6.1,42717,101
+44,1045,Black Panther,Marvel Studios,U.C Marvel,2018,02-16-18,135.0,1347597973.0,200000000,5.9,32227,105
+45,1046,Avengers: Infinity War,Marvel Studios,U.C Marvel,2018,04-27-18,156.0,2048359754.0,300000000,7.5,44433,105
+46,1047,Solo: A Star Wars Story,Lucasfilm,Star Wars,2018,05-25-18,135.0,392924807.0,275000000,6.0,24623,101
+47,1048,Jurassic World: Fallen Kingdom,Universal Pictures,Jurassic Park,2018,06-22-18,129.0,1310466296.0,170000000,5.6,29760,102
+48,1049,Ant-Man and the Wasp,Marvel Studios,U.C Marvel,2018,07-06-18,119.0,622674139.0,162000000,5.9,22368,105
+49,1050,Captain Marvel,Marvel Studios,U.C Marvel,2019,03-08-19,124.0,1128462972.0,160000000,5.9,26838,105
+50,1051,Avengers: Endgame,Marvel Studios,U.C Marvel,2019,04-26-19,181.0,2797501328.0,400000000,5.0,500,105
+51,1052,Spider-Man: Far from Home,Marvel Studios,U.C Marvel,2019,07-02-19,129.0,1131927996.0,160000000,6.2,27867,105
+52,1053,Star Wars: Episode IX - The Rise of Skywalker,Lucasfilm,Star Wars,2019,12-20-19,142.0,1074149279.0,275000000,5.6,31263,101
+53,1054,Black Widow,Marvel Studios,U.C Marvel,2021,07-09-21,134.0,379751655.0,200000000,5.6,18703,105
+54,1055,Shang-Chi and the Legend of the Ten Rings,Marvel Studios,U.C Marvel,2021,09-03-21,132.0,432243292.0,200000000,6.2,16374,105
+55,1056,Eternals,Marvel Studios,U.C Marvel,2021,11-05-21,155.0,402064899.0,200000000,5.6,16891,105
+56,1057,Spider-Man: No Way Home,Marvel Studios,U.C Marvel,2021,12-17-21,148.0,1915877753.0,200000000,7.0,28459,105
+57,1058,Doctor Strange in the Multiverse of Madness,Marvel Studios,U.C Marvel,2022,05-06-22,126.0,955775804.0,200000000,6.4,20930,105
+58,1059,Jurassic World Dominion,Universal Pictures,Jurassic Park,2022,06-10-22,147.0,997782460.0,165000000,4.9,13350,102
+59,1060,Thor: Love and Thunder,Marvel Studios,U.C Marvel,2022,07-08-22,119.0,758661016.0,250000000,5.3,16472,105
+60,1061,Indiana Jones en busca del arca perdida,Lucasfilm,Indiana Jones,1981,06-12-81,115.0,389925971.0,18000000,7.8,134963,106
+61,1062,Indiana Jones y el templo maldito,Lucasfilm,Indiana Jones,1984,05-23-84,118.0,333000000.0,28000000,7.4,112076,106
+62,1063,Indiana Jones y la última cruzada,Lucasfilm,Indiana Jones,1989,05-24-89,127.0,474171806.0,48000000,7.8,120554,106
+63,1064,Indiana Jones y el reino de la calavera de cristal,Lucasfilm,Indiana Jones,2008,05-21-08,123.0,790653823.0,185000000,5.4,75455,106
+64,1065,Indiana Jones y el dial del destino,Lucasfilm,Indiana Jones,2023,06-28-23,154.0,375017981.0,300000000,6.4,13083,106
