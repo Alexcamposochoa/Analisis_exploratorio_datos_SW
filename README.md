@@ -1,0 +1,2 @@
+# 1_proyecto_EDA
+StarWars_la_franquicia_más_rentable_del_cine
